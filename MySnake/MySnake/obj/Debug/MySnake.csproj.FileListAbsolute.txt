@@ -1,0 +1,10 @@
+D:\Documentos\Escolar\Programas\MySnake\MySnake\obj\Debug\MySnake.csprojResolveAssemblyReference.cache
+D:\Documentos\Escolar\Programas\MySnake\MySnake\obj\Debug\MySnake.Form1.resources
+D:\Documentos\Escolar\Programas\MySnake\MySnake\obj\Debug\MySnake.Properties.Resources.resources
+D:\Documentos\Escolar\Programas\MySnake\MySnake\obj\Debug\MySnake.csproj.GenerateResource.cache
+D:\Documentos\Escolar\Programas\MySnake\MySnake\obj\Debug\MySnake.csproj.CoreCompileInputs.cache
+D:\Documentos\Escolar\Programas\MySnake\MySnake\bin\Debug\MySnake.exe.config
+D:\Documentos\Escolar\Programas\MySnake\MySnake\bin\Debug\MySnake.exe
+D:\Documentos\Escolar\Programas\MySnake\MySnake\bin\Debug\MySnake.pdb
+D:\Documentos\Escolar\Programas\MySnake\MySnake\obj\Debug\MySnake.exe
+D:\Documentos\Escolar\Programas\MySnake\MySnake\obj\Debug\MySnake.pdb
